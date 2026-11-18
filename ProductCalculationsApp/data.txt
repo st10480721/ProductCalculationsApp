@@ -1,0 +1,9 @@
+DATA LOG
+**************************************************
+Customer Name: Stanley
+Product: Sealy Phuket
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+**************************************************
+
